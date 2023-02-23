@@ -1,10 +1,10 @@
-# Overview
-## A simple full-stack Notes web application using AWS Amplify. 
+## Overview
+A simple full-stack Notes web application using AWS Amplify. 
 
-# Accomplishments:
-## 1) Build and host a React application on the AWS global CDN (content delivery network).
-## 2) Add auth to activate sign-in and sign-out
-## 3) Add a GraphQL API, database, and storage solution.
+## Accomplishments:
+1) Build and host a React application on the AWS global CDN (content delivery network).
+2) Add auth to activate sign-in and sign-out
+3) Add a GraphQL API, database, and storage solution.
 
 
 
