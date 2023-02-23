@@ -12,8 +12,14 @@
       "AmplifyAppId": "d2xclvc9og4tqr"
     },
     "categories": {
+      "api": {
+        "amplifyreactgraphql": {}
+      },
+      "storage": {
+        "images": {}
+      },
       "auth": {
-        "amplifyreactgraphql716600ba": {}
+        "amplifyreactgraphqld408318f": {}
       }
     }
   }
